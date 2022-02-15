@@ -1,0 +1,57 @@
+[
+  {
+    "svgUrl": "img/icon/icon_analytics.svg",
+    "parentTitle": "Item A",
+    "parentPathName": "",
+    "list": [
+      {
+        "title": "Subitem 1-1",
+        "pathName": "Api_List"
+      },
+      {
+        "title": "Subitem 1-2",
+        "pathName": "Api_List"
+      }
+    ]
+  },
+  {
+    "svgUrl": "img/icon/icon_verified.svg",
+    "parentTitle": "Item B",
+    "parentPathName": "Api_List",
+    "list": []
+  },
+  {
+    "svgUrl": "img/icon/icon_analytics.svg",
+    "parentTitle": "Item C",
+    "parentPathName": "",
+    "list": [
+      {
+        "title": "Subitem 3-1",
+        "pathName": "Api_List"
+      },
+      {
+        "title": "Subitem 3-2",
+        "pathName": "Api_List"
+      }
+    ]
+  },
+  {
+    "svgUrl": "img/icon/icon_authority.svg",
+    "parentTitle": "Item D",
+    "parentPathName": "",
+    "list": [
+      {
+        "title": "Subitem 4-1",
+        "pathName": "User_Management"
+      },
+      {
+        "title": "Subitem 4-2",
+        "pathName": "User_Management"
+      },
+      {
+        "title": "Subitem 4-3",
+        "pathName": "User_Management"
+      }
+    ]
+  }
+]
