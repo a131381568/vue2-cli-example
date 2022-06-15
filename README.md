@@ -18,7 +18,7 @@ $ npm run dev
 ```
 
 ---
-## 假資料位置
+## 假資料
 - vue2-cli-example
  - public
     - data
